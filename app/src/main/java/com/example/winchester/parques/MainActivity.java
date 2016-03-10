@@ -33,8 +33,10 @@ ListView parques = (ListView) findViewById(R.id.ListaParque);
 }
 
 @Override
-    public boolean onCreateOptionsMenu (Menu menu){
-    getMenuInflater().inflate(R.menu.activity_main, menu);
+
+public boolean onCreateOptionsMenu (Menu menu)
+{
+    getMenuInflater().inflate(R.menu.Main_Activity, menu);
     return true;
 }
 
