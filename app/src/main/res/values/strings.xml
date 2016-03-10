@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PARQUES NATURALES</string>
+    <string-array name="parques">
+        <item> Reserva Chicaque</item>
+        <item> Parque Nacional Natural Cocuy</item>
+        <item> Parque Nacional Natural Farallones de Cali</item>
+    </string-array>
+</resources>
